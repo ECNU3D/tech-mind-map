@@ -1,10 +1,10 @@
-# 大模型
+# 大模型（LLM）
 
-## 推理
+## 推理（Inference）
 
-### 核心加速组件
+### 核心加速组件(Core Acceleration)
 
-- 硬件加速
+- 硬件加速（hardware）
 
 	- NVLink
 
@@ -20,7 +20,7 @@
 
 	- Intel Gaudi
 
-- 软件加速
+- 软件加速（software）
 
   > 下面这张“软件加速”清单把 推理端最常用、社区最活跃、且对吞吐-延迟指标提升显著 的技术都囊括进来了。为了便于在思维导图里落点，我按 Attention 内核 → KV 缓存管理 → 批处理/并行 → 解码加速 → 端到端推理框架五大块分组；每项都给出一句定位，方便后期补充细节或放外链。
   > 
@@ -78,7 +78,7 @@
 
 	- GQA/MQA
 
-### 主流框架
+### 主流框架（framework）
 
 - vLLM
 
@@ -88,7 +88,7 @@
 
 - Hugging Face TGI
 
-### 核心功能
+### 核心功能（core function）
 
 - 流式输出，Streaming
 
@@ -106,7 +106,7 @@
 
 - Structured Decoding
 
-## 微调
+## 微调（Finetune）
 
 ### SFT
 
@@ -122,13 +122,13 @@
 
 - GRPO
 
-### 主流框架
+### 主流框架（Framework）
 
 - LlamaFactory
 
 - Unsloth
 
-## 评估
+## 评估（Evaluation）
 
 ### Encoding Similarity
 
@@ -138,7 +138,7 @@
 
 ### LLM As A Judge
 
-## 应用场景
+## 应用场景（Adoption Scenario）
 
 ### Classification
 
@@ -158,7 +158,7 @@
 
 ### Content Generation
 
-## 主流模式
+## 主流模式（Major Pattern）
 
 ### Prompt Tunning
 
@@ -186,7 +186,7 @@
 
 - A2A
 
-## 基座模型
+## 基座模型（Base Model）
 
 ### Llama family
 
@@ -196,9 +196,9 @@
 
 ### Qwen
 
-### 豆包？混元？盘古？等等？
+### 豆包，混元，盘古，等等
 
-## 原理
+## 原理（Principal）
 
 ### Transformer: Attention is all you need
 
@@ -208,7 +208,7 @@
 
 ### MoE
 
-## 多模态
+## 多模态（multimodal）
 
 ### Image to text
 
@@ -216,7 +216,7 @@
 
 ### Text to video
 
-## 监测
+## 监测（monitoring）
 
 ### Weights & Bias
 

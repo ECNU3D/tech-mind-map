@@ -1,6 +1,6 @@
 # 检索增强生成（RAG）
 
-## 基础流程
+## 基础流程（Basic Flow）
 
 ### 切片（Chunking）
 
@@ -34,7 +34,7 @@
 
 - Common Hyperparameter Tuning
 
-## 框架
+## 框架（Framework）
 
 ### LlamaIndex
 
@@ -42,7 +42,7 @@
 
 ### MSFT Graph RAG
 
-## 优化
+## 优化（Optimization）
 
 ### Reranker
 
@@ -68,7 +68,7 @@
 
 - Meta Data Extraction/Filtering
 
-## 分类
+## 分类（Type）
 
 ### Normal RAG
 
@@ -76,17 +76,17 @@
 
 ### Graph RAG
 
-## 评估
+## 评估（Evaluation）
 
-### 常见指标
+### 常见指标（Metrics）
 
-- 检索
+- 检索（Retrieval）
 
 	- Hit Rate
 
 	- Context Relevance
 
-- 生成
+- 生成 （Generation）
 
 	- Groundness/Faithfulness
 
@@ -100,7 +100,7 @@
 
 	- Accuracy / Precision / Recall / F1
 
-### 框架
+### 框架（Framework）
 
 - TruLens
 
@@ -108,7 +108,7 @@
 
 - DeepEval
 
-## 部署
+## 部署（Deployment）
 
 ### Cloud
 

@@ -9,7 +9,7 @@ This repository contains a collection of technical knowledge maps and detailed e
 ├── README.md
 ├── docs/
 │   ├── images/          # Contains all images used in the documentation
-│   │   ├── 大模型.png
+│   │   ├── 大模型（LLM）.png
 │   │   ├── 检索增强生成（RAG）.png
 │   │   ├── Web3.png
 │   │   └── 稳定币.png
@@ -30,7 +30,7 @@ A comprehensive guide about stablecoins, their mechanisms, and their role in the
 Detailed explanation of Retrieval-Augmented Generation, a technique that enhances large language models with external knowledge.
 
 ### 大模型 (Large Language Models)
-![大模型知识图谱](docs/images/大模型.png)
+![大模型知识图谱](docs/images/大模型（LLM）.png)
 In-depth analysis of large language models, their architecture, capabilities, and applications.
 
 ### Web3
