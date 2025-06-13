@@ -12,11 +12,13 @@ This repository contains a collection of technical knowledge maps and detailed e
 │   │   ├── 大模型（LLM）.png
 │   │   ├── 检索增强生成（RAG）.png
 │   │   ├── Web3.png
-│   │   └── 稳定币.png
+│   │   ├── 稳定币.png
+│   │   └── SQL.png
 │   ├── 稳定币.md
 │   ├── 检索增强生成（RAG）.md
 │   ├── 大模型.md
-│   └── Web3.md
+│   ├── Web3.md
+│   └── SQL.md
 ```
 
 ## Content Overview
@@ -37,12 +39,17 @@ In-depth analysis of large language models, their architecture, capabilities, an
 ![Web3知识图谱](docs/images/Web3.png)
 Overview of Web3 technologies, including blockchain, decentralized applications, and the future of the internet.
 
+### SQL
+![SQL知识图谱](docs/images/SQL.png)
+Comprehensive guide to SQL (Structured Query Language), covering database design, query optimization, and best practices.
+
 ## Purpose
 
 This repository serves as a knowledge base for understanding complex technical concepts in the fields of:
 - Blockchain and Cryptocurrency
 - Artificial Intelligence and Machine Learning
 - Web3 and Decentralized Technologies
+- Database and Data Management
 
 Each markdown file contains detailed explanations, technical concepts, and practical insights about its respective topic.
 
