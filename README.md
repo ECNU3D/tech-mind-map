@@ -13,12 +13,14 @@ This repository contains a collection of technical knowledge maps and detailed e
 │   │   ├── 检索增强生成（RAG）.png
 │   │   ├── Web3.png
 │   │   ├── 稳定币.png
-│   │   └── SQL.png
+│   │   ├── SQL.png
+│   │   └── Python.png
 │   ├── 稳定币.md
 │   ├── 检索增强生成（RAG）.md
 │   ├── 大模型.md
 │   ├── Web3.md
-│   └── SQL.md
+│   ├── SQL.md
+│   └── Python.md
 ```
 
 ## Content Overview
@@ -43,6 +45,10 @@ Overview of Web3 technologies, including blockchain, decentralized applications,
 ![SQL知识图谱](docs/images/SQL.png)
 Comprehensive guide to SQL (Structured Query Language), covering database design, query optimization, and best practices.
 
+### Python
+![Python知识图谱](docs/images/Python.png)
+Complete overview of Python programming language, including core concepts, advanced features, and popular frameworks for various applications.
+
 ## Purpose
 
 This repository serves as a knowledge base for understanding complex technical concepts in the fields of:
@@ -50,6 +56,7 @@ This repository serves as a knowledge base for understanding complex technical c
 - Artificial Intelligence and Machine Learning
 - Web3 and Decentralized Technologies
 - Database and Data Management
+- Programming Languages and Software Development
 
 Each markdown file contains detailed explanations, technical concepts, and practical insights about its respective topic.
 
