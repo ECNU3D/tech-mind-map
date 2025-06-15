@@ -14,13 +14,15 @@ This repository contains a collection of technical knowledge maps and detailed e
 │   │   ├── Web3.png
 │   │   ├── 稳定币.png
 │   │   ├── SQL.png
-│   │   └── Python.png
+│   │   ├── Python.png
+│   │   └── 企业级应用开发.png
 │   ├── 稳定币.md
 │   ├── 检索增强生成（RAG）.md
 │   ├── 大模型.md
 │   ├── Web3.md
 │   ├── SQL.md
-│   └── Python.md
+│   ├── Python.md
+│   └── 企业级应用开发.md
 ```
 
 ## Content Overview
@@ -49,6 +51,10 @@ Comprehensive guide to SQL (Structured Query Language), covering database design
 ![Python知识图谱](docs/images/Python.png)
 Complete overview of Python programming language, including core concepts, advanced features, and popular frameworks for various applications.
 
+### 企业级应用开发 (Enterprise Application Development)
+![企业级应用开发知识图谱](docs/images/企业级应用开发.png)
+Comprehensive guide to enterprise application development, covering architecture patterns, best practices, and modern development methodologies.
+
 ## Purpose
 
 This repository serves as a knowledge base for understanding complex technical concepts in the fields of:
@@ -57,6 +63,7 @@ This repository serves as a knowledge base for understanding complex technical c
 - Web3 and Decentralized Technologies
 - Database and Data Management
 - Programming Languages and Software Development
+- Enterprise Software Architecture and Development
 
 Each markdown file contains detailed explanations, technical concepts, and practical insights about its respective topic.
 
