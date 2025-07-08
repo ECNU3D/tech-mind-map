@@ -15,14 +15,16 @@ This repository contains a collection of technical knowledge maps and detailed e
 │   │   ├── 稳定币.png
 │   │   ├── SQL.png
 │   │   ├── Python.png
-│   │   └── 企业级应用开发.png
+│   │   ├── 企业级应用开发.png
+│   │   └── 算法面试.png
 │   ├── 稳定币.md
 │   ├── 检索增强生成（RAG）.md
 │   ├── 大模型.md
 │   ├── Web3.md
 │   ├── SQL.md
 │   ├── Python.md
-│   └── 企业级应用开发.md
+│   ├── 企业级应用开发.md
+│   └── 算法面试.md
 ```
 
 ## Content Overview
@@ -54,6 +56,10 @@ Complete overview of Python programming language, including core concepts, advan
 ### 企业级应用开发 (Enterprise Application Development)
 ![企业级应用开发知识图谱](docs/images/企业级应用开发.png)
 Comprehensive guide to enterprise application development, covering architecture patterns, best practices, and modern development methodologies.
+
+### 算法面试 (Algorithm Interview)
+![算法面试知识图谱](docs/images/算法面试.png)
+Comprehensive guide to algorithm interview preparation, covering problem-solving paradigms, data structures, algorithmic techniques, and specialized topics commonly encountered in technical interviews.
 
 ## Purpose
 
